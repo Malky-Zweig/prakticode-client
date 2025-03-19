@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // const apiUrl = "http://localhost:5023"
-axios.defaults.baseURL="http://localhost:5023"
+axios.defaults.baseURL="https://prakticode-server.onrender.com"
 // axios.defaults.baseURL =process.env.REACT_APP_API_URL
 
 
